@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Sunil file<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h1>Shop easy<h1> <!-- Bug: Missing closing slash on <h1> -->
         </div>
         <nav>
             <ul>
